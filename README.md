@@ -39,6 +39,12 @@ To uncover key sales trends, purchasing patterns, and customer segments to help 
 
 ---
 
+## 📸 Preview
+
+![Ecommerce Dashboard](./Ecommerce_Sales_Dashboard.png)
+
+---
+
 ##  Dashboard Capabilities
 
 - Dynamic filters for state-wise and customer-wise exploration  
