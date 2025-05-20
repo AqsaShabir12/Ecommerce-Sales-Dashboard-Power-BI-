@@ -39,7 +39,7 @@ To uncover key sales trends, purchasing patterns, and customer segments to help 
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Ecommerce Dashboard](./Ecommerce_Sales_Dashboard.png)
 
